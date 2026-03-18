@@ -152,7 +152,7 @@ const questionsData = {
       {
         question: "Balance: H2 + O2 → H2O",
         answer: "2 H2 + O2 → 2 H2O",
-        examinerTip: "Ensure same number of H and O on both sides"
+        examinerTip: "Ensure same number of H and O on both sidess"
       },
       {
         question: "Define molarity",

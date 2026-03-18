@@ -12,6 +12,7 @@ Questions Page
 - Score calculation
 - See Answer button for Paper 2
 - Next Paper button → redirects to Subscribe page if next paper is locked
+
 */
 
 function Questions() {
